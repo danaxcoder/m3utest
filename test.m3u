@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:0,video 1 - BigBuckBunny1
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:0,video 2 - BigBuckBunny2
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:0,video 3 - BigBuckBunny3
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
